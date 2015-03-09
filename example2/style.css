@@ -1,0 +1,30 @@
+.login {
+  background-color: #0457b7;
+  border: solid 1px #005ed9;
+  magin: 0;
+  padding: 0px;
+  color: white;
+  font-family: "Arial";
+  font-size: 0.75em;
+  width: 400px;
+}
+.bold {
+  font-weight: bold;
+}
+.light-blue {
+  color: #9ac2e5;
+}
+.login_content {
+  display: inline-block;
+  width: 40%;
+  margin: 5px;
+  margin-right: 0px;
+}
+.text_input {
+  margin: 5px 5px 5px 0px;
+}
+.button {
+  display: inline-block;
+  position: relative;
+  top: -20px;
+}

@@ -1,0 +1,49 @@
+.main {
+  width: 450px;
+  color: black;
+  font-family: "Times New Roman";
+  font-size: 1em;
+  padding: 10px;
+  border: solid 1px black;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  float: left;
+  width: 100%;
+}
+.grey {
+  color: #c1c1c1;
+  font-size: 0.75em;
+}
+.list {
+  font-size: 0.75em;
+  font-weight: bold;
+  margin: 0px;
+  padding-left: 25px;
+  text-align: left;
+}
+.arial {
+  font-size: 0.65em;
+  font-family: "Arial";
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.description {
+  font-size: 0.85em;
+}
+
+.l_content {
+  display: inline-block;
+  width: 45%;
+  margin: 10px;
+  text-align: left;
+}
+.r_content {
+  display: inline-block;
+  width: 45%;
+  margin:10px;
+  text-align: center;
+}
